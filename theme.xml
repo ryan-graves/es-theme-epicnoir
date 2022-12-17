@@ -153,7 +153,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <alignment>left</alignment>
         <pos>0 0.0833</pos>
 	    <size>0.323 0.8513</size>
-        <fontSize>0.03</fontSize>
+        <fontSize>0.04</fontSize>
         <lineSpacing>1.683</lineSpacing>
         <horizontalMargin>0.02864</horizontalMargin>
     </textlist>
@@ -163,7 +163,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <text>Select Game</text>
         <alignment>left</alignment>
         <color>F8F8F8</color>
-        <fontSize>0.034</fontSize>
+        <fontSize>0.05</fontSize>
         <origin>0 0</origin>
         <pos>0.029 0</pos>
         <size>0.20 0.08</size>
@@ -174,10 +174,10 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <alignment>left</alignment>
         <forceUppercase>1</forceUppercase>
         <color>ffffff</color>
-        <fontSize>0.036</fontSize>
+        <fontSize>0.06</fontSize>
         <origin>0 0</origin>
         <pos>0.429 0</pos>
-        <size>0.40 0.075</size>
+        <size>0.40 0.1</size>
     </text>
 
     <text name="md_description">
@@ -196,7 +196,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <color>F8F8F8</color>
         <forceUppercase>1</forceUppercase>
         <fontPath>./_art/BebasNeue.otf</fontPath>
-        <fontSize>0.0186</fontSize>
+        <fontSize>0.03</fontSize>
     </text>
 
     <text name="md_genre, md_players">
@@ -277,7 +277,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <text>Description</text>
         <fontPath>./_art/BebasNeue.otf</fontPath>
         <alignment>left</alignment>
-        <fontSize>0.0186</fontSize>
+        <fontSize>0.03</fontSize>
         <color>ffffff</color>
         <origin>0 0</origin>
         <pos>0.429 0.720</pos>
