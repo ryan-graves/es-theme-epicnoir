@@ -151,8 +151,8 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <secondaryColor>888888</secondaryColor>
         <fontPath>./_art/BebasNeue.otf</fontPath>
         <alignment>left</alignment>
-        <pos>0 0.0833</pos>
-	    <size>0.323 0.8513</size>
+        <pos>0 0.2</pos>
+	    <size>0.323 0.7346</size>
         <fontSize>0.038</fontSize>
         <lineSpacing>1.4</lineSpacing>
         <horizontalMargin>0.01</horizontalMargin>
@@ -166,7 +166,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <fontSize>0.05</fontSize>
         <origin>0 0</origin>
         <pos>0.01 0</pos>
-        <size>0.20 0.08</size>
+        <size>0.20 0.2</size>
     </text>
     
     <text name="nameLabel" extra="true">
