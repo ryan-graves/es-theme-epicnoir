@@ -153,7 +153,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <alignment>left</alignment>
         <pos>0 0.0833</pos>
 	    <size>0.323 0.8513</size>
-        <fontSize>0.04</fontSize>
+        <fontSize>0.038</fontSize>
         <lineSpacing>1.4</lineSpacing>
         <horizontalMargin>0.01</horizontalMargin>
     </textlist>
@@ -174,9 +174,9 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <alignment>left</alignment>
         <forceUppercase>1</forceUppercase>
         <color>ffffff</color>
-        <fontSize>0.08</fontSize>
+        <fontSize>0.07</fontSize>
         <origin>0 0</origin>
-        <pos>0.429 0</pos>
+        <pos>0.429 0.02</pos>
         <size>0.40 0.1</size>
     </text>
 
@@ -314,7 +314,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <tile>false</tile>
         <origin>0.5 0.5</origin>
         <pos>0.66 0.42</pos>
-        <maxSize>0.5 0.6</maxSize>
+        <maxSize>0.4 0.5</maxSize>
     </image>
 
 </view>
