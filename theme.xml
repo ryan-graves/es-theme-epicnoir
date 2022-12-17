@@ -44,8 +44,8 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <tile>false</tile>
         <color>F8F8F8</color>
         <origin>0 0</origin>
-        <pos>-0.002 0.15</pos>
-        <size>0 0.70</size>
+        <pos>-0 0</pos>
+        <size>0 1</size>
      </image>
 
     <carousel name="systemcarousel">
