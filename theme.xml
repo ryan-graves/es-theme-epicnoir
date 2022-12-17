@@ -85,11 +85,11 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
     </text>
 
     <text name="systemInfo">
-        <fontPath>./_art/Acre.otf</fontPath>
+        <fontPath>./_art/BebasNeue.otf</fontPath>
         <alignment>left</alignment>
         <backgroundColor>00000000</backgroundColor>
         <forceUppercase>1</forceUppercase>
-        <color>46C69F</color>
+        <color>C7C4EE</color>
         <origin>0 0</origin>
         <pos>0.12 0.3611</pos>
         <size>0.200 0.039</size>
@@ -149,7 +149,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <selectorHeight>0.05</selectorHeight>
         <primaryColor>585858</primaryColor>
         <secondaryColor>888888</secondaryColor>
-        <fontPath>./_art/Acre.otf</fontPath>
+        <fontPath>./_art/BebasNeue.otf</fontPath>
         <alignment>left</alignment>
         <pos>0 0.0833</pos>
 	    <size>0.323 0.8513</size>
@@ -159,7 +159,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
     </textlist>
     
     <text name="top_label" extra="true">
-        <fontPath>./_art/Acre.otf</fontPath>
+        <fontPath>./_art/BebasNeue.otf</fontPath>
         <text>Select Game</text>
         <alignment>left</alignment>
         <color>F8F8F8</color>
@@ -170,7 +170,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
     </text>
     
     <text name="nameLabel" extra="true">
-        <fontPath>./_art/Acre.otf</fontPath>
+        <fontPath>./_art/BebasNeue.otf</fontPath>
         <alignment>left</alignment>
         <forceUppercase>1</forceUppercase>
         <color>ffffff</color>
@@ -194,8 +194,8 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
 <!-- Define metadata -->
     <text name="md_lbl_rating, md_lbl_genre, md_lbl_players">
         <color>F8F8F8</color>
-        <forceUppercase>0</forceUppercase>
-        <fontPath>./_art/Acre.otf</fontPath>
+        <forceUppercase>1</forceUppercase>
+        <fontPath>./_art/BebasNeue.otf</fontPath>
         <fontSize>0.0186</fontSize>
     </text>
 
@@ -250,13 +250,13 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
     </text>       
 
     <text name="btn_a" extra="true">
-        <text>Enter</text>
+        <text>Start Game</text>
         <pos>0.042 0.933</pos>
         <size>0.06 0.07</size>
     </text>   
         
     <text name="btn_b" extra="true">
-        <text>Return</text>
+        <text>Back</text>
         <pos>0.155 0.933</pos>
         <size>0.06 0.07</size>
     </text>   
@@ -275,7 +275,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
 
     <text name="txt_descript" extra="true">
         <text>Description</text>
-        <fontPath>./_art/Acre.otf</fontPath>
+        <fontPath>./_art/BebasNeue.otf</fontPath>
         <alignment>left</alignment>
         <fontSize>0.0186</fontSize>
         <color>ffffff</color>
