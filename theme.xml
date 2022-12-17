@@ -324,7 +324,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <video name="md_video">
             <origin>0.5 0.5</origin>
             <pos>0.66 0.42</pos>
-            <maxSize>0.5 0.6</maxSize>
+            <maxSize>0.4 0.5</maxSize>
             <delay>1.5</delay>
             <showSnapshotNoVideo>true</showSnapshotNoVideo>
             <showSnapshotDelay>true</showSnapshotDelay>
