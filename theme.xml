@@ -155,7 +155,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
 	    <size>0.323 0.8513</size>
         <fontSize>0.04</fontSize>
         <lineSpacing>1.4</lineSpacing>
-        <horizontalMargin>0.02864</horizontalMargin>
+        <horizontalMargin>0.01</horizontalMargin>
     </textlist>
     
     <text name="top_label" extra="true">
@@ -165,7 +165,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <color>F8F8F8</color>
         <fontSize>0.05</fontSize>
         <origin>0 0</origin>
-        <pos>0.029 0</pos>
+        <pos>0.01 0</pos>
         <size>0.20 0.08</size>
     </text>
     
