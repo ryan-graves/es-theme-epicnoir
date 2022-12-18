@@ -215,7 +215,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
     </text>
 
     <rating name="md_rating">
-        <pos>0.46 0.957</pos>
+        <pos>0.47 0.957</pos>
         <size>0 0.020</size>
         <filledPath>./_art/var/star_filled.svg</filledPath>
         <unfilledPath>./_art/var/star_hollow.svg</unfilledPath>
@@ -240,7 +240,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
     </text>
 
     <text name="md_genre">
-        <pos>0.800 0.932</pos>
+        <pos>0.81 0.932</pos>
         <size>0.4 0.07</size>
     </text> 
         
