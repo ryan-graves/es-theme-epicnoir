@@ -253,7 +253,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
 
     <text name="btn_a" extra="true">
         <text>Start Game</text>
-        <pos>0.042 0.933</pos>
+        <pos>0.0425 0.933</pos>
         <size>0.06 0.07</size>
     </text>   
         
@@ -265,7 +265,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         
     <text name="btn_x" extra="true">
         <text>Favorite</text>
-        <pos>0.285 0.933</pos>
+        <pos>0.28 0.933</pos>
         <size>0.09 0.07</size>
     </text>   
 
