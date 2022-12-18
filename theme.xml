@@ -182,11 +182,11 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
 
     <text name="md_description">
         <fontPath>./_art/Acre.otf</fontPath>
-	    <color>818181</color>
-        <fontSize>0.02</fontSize>
+	    <color>F8F8F8AA</color>
+        <fontSize>0.018</fontSize>
 	    <alignment>left</alignment>
         <forceUppercase>0</forceUppercase>
-        <lineSpacing>1.1</lineSpacing>
+        <lineSpacing>1.2</lineSpacing>
 	    <pos>0.42 0.72</pos>
 	    <size>0.54 0.18</size>
     </text>
@@ -259,13 +259,13 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         
     <text name="btn_b" extra="true">
         <text>Back to Consoles</text>
-        <pos>0.148 0.933</pos>
+        <pos>0.15 0.933</pos>
         <size>0.09 0.07</size>
     </text>   
         
     <text name="btn_x" extra="true">
         <text>Favorite</text>
-        <pos>0.287 0.933</pos>
+        <pos>0.285 0.933</pos>
         <size>0.09 0.07</size>
     </text>   
 
