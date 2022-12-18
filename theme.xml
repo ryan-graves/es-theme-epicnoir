@@ -194,6 +194,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
 <!-- Define metadata -->
     <text name="md_lbl_rating, md_lbl_genre, md_lbl_players">
         <color>F8F8F8</color>
+	    <alignment>left</alignment>
         <forceUppercase>1</forceUppercase>
         <fontPath>./_art/BebasNeue.otf</fontPath>
         <fontSize>0.03</fontSize>
@@ -201,6 +202,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
 
     <text name="md_genre, md_players">
         <color>888888</color>
+	    <alignment>left</alignment>
         <forceUppercase>0</forceUppercase>
         <fontPath>./_art/Acre.otf</fontPath>
         <fontSize>0.0186</fontSize>
@@ -228,7 +230,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <fontPath>./_art/Acre.otf</fontPath>
         <color>888888</color>
         <fontSize>0.0186</fontSize>
-        <pos>0.66 0.932</pos>
+        <pos>0.65 0.932</pos>
         <size>0.06 0.07</size>
     </text>
         
@@ -257,19 +259,19 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         
     <text name="btn_b" extra="true">
         <text>Back to Consoles</text>
-        <pos>0.145 0.933</pos>
-        <size>0.06 0.07</size>
+        <pos>0.148 0.933</pos>
+        <size>0.09 0.07</size>
     </text>   
         
     <text name="btn_x" extra="true">
         <text>Favorite</text>
-        <pos>0.259 0.933</pos>
+        <pos>0.257 0.933</pos>
         <size>0.09 0.07</size>
     </text>   
 
     <text name="players_lbl_2" extra="true">
         <text>players</text>
-        <pos>0.66 0.932</pos>
+        <pos>0.67 0.932</pos>
         <size>0.06 0.07</size>
     </text>       
 
