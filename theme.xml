@@ -183,7 +183,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
     <text name="md_description">
         <fontPath>./_art/Acre.otf</fontPath>
 	    <color>F8F8F8AA</color>
-        <fontSize>0.018</fontSize>
+        <fontSize>0.028</fontSize>
 	    <alignment>left</alignment>
         <forceUppercase>0</forceUppercase>
         <lineSpacing>1.2</lineSpacing>
@@ -229,7 +229,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
     <text name="md_players">
         <fontPath>./_art/Acre.otf</fontPath>
         <color>F8F8F8AA</color>
-        <fontSize>0.018</fontSize>
+        <fontSize>0.028</fontSize>
         <pos>0.65 0.932</pos>
         <size>0.06 0.07</size>
     </text>
@@ -248,7 +248,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
     <text name="players_lbl_2, btn_a, btn_b, btn_x" extra="true">
         <fontPath>./_art/Acre.otf</fontPath>
         <color>F8F8F8AA</color>
-        <fontSize>0.018</fontSize>
+        <fontSize>0.028</fontSize>
     </text>       
 
     <text name="btn_a" extra="true">
