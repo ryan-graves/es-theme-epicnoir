@@ -77,7 +77,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <fontPath>./_art/Acre.otf</fontPath>
         <alignment>left</alignment>
         <forceUppercase>0</forceUppercase>
-        <fontSize>0.021</fontSize>
+        <fontSize>0.022</fontSize>
         <color>F8F8F8AA</color>
         <origin>0 0</origin>
         <pos>0.12 0.1055</pos>
@@ -100,12 +100,12 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
         <fontPath>./_art/Acre.otf</fontPath>
         <alignment>left</alignment>
         <forceUppercase>0</forceUppercase>
-        <fontSize>0.021</fontSize>
+        <fontSize>0.022</fontSize>
         <color>F8F8F8AA</color>
- 	<lineSpacing>1.18</lineSpacing>
+ 	    <lineSpacing>1.2</lineSpacing>
         <origin>0 0</origin>
         <pos>0.12 0.360</pos>
-        <size>0.28 0.20</size>
+        <size>0.34 0.20</size>
     </text>
 
     <image name="buttonA" extra="true">
