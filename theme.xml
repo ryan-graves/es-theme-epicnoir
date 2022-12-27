@@ -245,11 +245,17 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
     </text> 
         
 <!-- Extra Text Labels. Edit text values if needed.-->
-    <text name="players_lbl_2, btn_a, btn_b, btn_x" extra="true">
+    <text name="btn_a, btn_b, btn_x" extra="true">
         <fontPath>./_art/Acre.otf</fontPath>
         <color>F8F8F8AA</color>
         <fontSize>0.028</fontSize>
-    </text>       
+    </text>  
+
+    <text name="players_lbl_2" extra="true">
+        <fontPath>./_art/Acre.otf</fontPath>
+        <color>F8F8F8AA</color>
+        <fontSize>0.022</fontSize>
+    </text>      
 
     <text name="btn_a" extra="true">
         <text>Start</text>
@@ -258,7 +264,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
     </text>   
         
     <text name="btn_b" extra="true">
-        <text>Back</text>
+        <text>Consoles</text>
         <pos>0.15 0.933</pos>
         <size>0.09 0.07</size>
     </text>   
